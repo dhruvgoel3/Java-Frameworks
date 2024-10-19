@@ -44,7 +44,7 @@ class MyFrame extends Frame implements ItemListener
 
     }
 }
-
+// main
 
 public class Main {
     public static void main(String[] args)
